@@ -98,23 +98,9 @@
 <img src="https://streak-stats.demolab.com?user=rajasekharburri&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
----
 
-### 🏆 Achievements & Certifications
 
-<!-- EDIT: replace/add your actual certifications -->
-- 🏅 AWS Certified (add your certification name here)
-- 🏅 6+ years delivering secure cloud infrastructure for banking & pharma clients
-- 🏅 GitHub Pull Shark achievement (x2)
 
-### 📚 Currently Learning
-
-<!-- EDIT -->
-- Advanced Kubernetes security & service mesh (Istio)
-- AWS cost optimization & FinOps practices
-- Platform engineering & internal developer platforms
-
----
 
 ### 🤝 Open to Collaborate On
 - Open-source DevOps & IaC tooling
