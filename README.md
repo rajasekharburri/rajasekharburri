@@ -1,9 +1,8 @@
-<!--
+
 =====================================================
   GITHUB PROFILE README — rajasekharburri
-  Edit any text marked with <-- EDIT --> to personalize
+
 =====================================================
--->
 
 <div align="center">
 
