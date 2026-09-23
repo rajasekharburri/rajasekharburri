@@ -2,7 +2,6 @@
 =====================================================
   GITHUB PROFILE README — rajasekharburri (ALT DESIGN)
   Modern minimal style with icon-grid tech stack + wave banner
-  Edit any text marked with <-- EDIT --> to personalize
 =====================================================
 -->
 
@@ -24,10 +23,9 @@
 name: Burri Raja Sekhar
 role: AWS DevOps Engineer
 experience: 6+ years
-focus: [Cloud Infrastructure, CI/CD Automation, DevSecOps]
+focus: Cloud Infrastructure, CI/CD Automation, DevSecOps
 currently_at: Peritus Technologies
 looking_for: Senior DevOps / Cloud Infrastructure roles
-fun_fact: "Started on an IT support desk resetting passwords — now I build the cloud infra banks run on."
 ```
 <!-- EDIT: this YAML-style block is the alt design's signature — swap values freely -->
 
@@ -99,16 +97,7 @@ Ansible-driven config management for a multi-tier expense tracking app.
 
 <br>
 
-## 🏆 Achievements & Certifications
-<!-- EDIT: add your real certifications -->
-- 🏅 AWS Certified — *(add certification name)*
-- 🏅 6+ years securing & automating cloud infra for banking & pharma clients
-- 🏅 GitHub Pull Shark ×2
 
-## 📚 Currently Exploring
-- Kubernetes security & Istio service mesh
-- AWS FinOps & cost optimization
-- Platform engineering / internal developer platforms
 
 <br>
 
