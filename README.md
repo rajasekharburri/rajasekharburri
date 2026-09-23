@@ -23,8 +23,6 @@
 <!-- EDIT: swap in your own voice/interests below -->
 - 🌱 Interests: Cloud security, automation & scripting, open-source DevOps tooling
 - 🎯 **Looking for:** Senior DevOps / Cloud Infrastructure roles where I can drive automation-first, secure-by-design engineering practices.
-- ⚡ **Fun fact:** I started out fixing laptops and resetting passwords on a support desk — now I build the cloud infrastructure that keeps banking apps running 24/7.
-
 ---
 
 ### 🛠️ Tech Stack
