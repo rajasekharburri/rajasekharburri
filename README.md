@@ -73,11 +73,14 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔹 [**ansible-roboshop**](https://github.com/rajasekharburri/ansible-roboshop) | End-to-end automated deployment of the RoboShop microservices e-commerce app using Ansible playbooks. | Ansible, AWS, Linux |
-| 🔹 [**shell-roboshop**](https://github.com/rajasekharburri/shell-roboshop) | Shell-script-driven provisioning and deployment automation for the same multi-tier RoboShop application. | Bash, AWS |
-| 🔹 [**terraform**](https://github.com/rajasekharburri/terraform) | Infrastructure-as-Code modules for provisioning AWS resources in a repeatable, version-controlled way. | Terraform, AWS, HCL |
-| 🔹 [**expense-project-anisble**](https://github.com/rajasekharburri/expense-project-anisble) | Automated setup and configuration management for a multi-tier expense-tracking application. | Ansible, MySQL |
-| 🔹 [**shell-practice**](https://github.com/rajasekharburri/shell-practice) | Collection of shell scripting exercises for Linux automation fundamentals. | Shell |
+| [`shell-roboshop`](https://github.com/rajasekharburri/shell-roboshop) | Shell-script provisioning/deployment for RoboShop |
+| [`k8-roboshop-database`](https://github.com/rajasekharburri/k8-roboshop-database) | Stateful DB layer manifests for the RoboShop K8s stack |
+| [`cicd-tools`](https://github.com/rajasekharburri/cicd-tools) | Shared CI/CD tooling and infra (HCL) |
+| [`terraform-aws-sg`](https://github.com/rajasekharburri/terraform-aws-sg) | Terraform module for AWS security groups |
+| [`terraform-aws-instances`](https://github.com/rajasekharburri/terraform-aws-instances) | Terraform module for EC2 instance provisioning |
+| [`github-runner`](https://github.com/rajasekharburri/github-runner) | Self-hosted GitHub Actions runner setup (HCL) |
+| [`python-devops-usecases`](https://github.com/rajasekharburri/python-devops-usecases) | Python scripts for common DevOps automation tasks |
+| [`expense-project-anisble`](https://github.com/rajasekharburri/expense-project-anisble) | Ansible config management for a multi-tier expense app |
 
 ---
 
