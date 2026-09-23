@@ -1,9 +1,4 @@
-<!--
-=====================================================
-  GITHUB PROFILE README — rajasekharburri (ALT DESIGN)
-  Edit any text marked with <-- EDIT --> to personalize
-=====================================================
--->
+
 
 <div align="center">
 
